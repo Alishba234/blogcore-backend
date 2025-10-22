@@ -138,7 +138,7 @@ Main goals:
 - npm run dev
 ### Clone the Repository
 
-- git clone https://github.com/yourusername/blog-app-backend.git
+- git clonehttps://github.com/Alishba234/blogcore-backend.git
 - cd blog-app-backend
 
 ## Redis Caching
