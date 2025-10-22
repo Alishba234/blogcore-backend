@@ -158,9 +158,9 @@ Main goals:
 ## Author
 - Developer: Alishba
 - Role: Backend Developer
-- Email: your-name@gmail.com
+- Email: alishbadev6@gmail.com
 - GitHub: github.com/Alishba234
-- LinkedIn: linkedin.com/in/your-link
+
 
 📄 License
 - This project is open-source and available under the MIT License.
